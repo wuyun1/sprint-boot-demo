@@ -1,0 +1,4 @@
+com\sishuok\entity\User.class
+com\sishuok\controller\UserController.class
+com\jikexueyuan\App.class
+com\sishuok\Application.class
